@@ -1,0 +1,107 @@
+40
+n h c p p h i k w q b d a t a n a l y s i s e a r c h f b k r x l y b c f b r j 
+f s o f a e c t i u q m i w g n i n n a p s o r o n d p e r b y h k y i c f a t 
+c s m t r a v e l i n g j j o m c o r l i l j a u n q z v y x u u e i p o l y s 
+n t p n t p j i g c q q b r k s i q a e r i a s a n a y q k p v l p g m x g o a 
+e b r s i s r y m k j z e r i s r u o s t h h y d v t b z h q s m s a z m i o h 
+x d e y t o a i g s r i e f i c t r z m n t l n e e j b h e h k z d t p z p j f 
+e m s c i r t e m o e g b l e o a r l a u h a w c r l x q f n w l w i d z q g j 
+x r s n o t z f h r l n l s m m p x a n r m i p m g u n p d u y o u m i f p c h 
+t r i a n g u l a t i o n a w p c g k d f i h d x h d p q d s v j u q t s p y o 
+e k o q i q z o x v c s t y l u o k s f i p i i f h o c n j f m n l f b g z s r 
+n m n g n i m m a r g o r p o t n k u o j x o w f o r j d q f v a n b w e l m l 
+d c w s g l s h e l n b o y y e n h r s a j t d l i m f m p c t c e b t q h u q 
+i c y a r w c t e t r o s e g r e m k q w m a s o z u q a c h w p a a l o e s f 
+b h a m u n d i r e c t e d r z c g s s z x a i u w a t h u x t m i v r v d b h 
+l a s r e v a r t u r c l d k w t s o v u d d t l k y w s s w v z s q t v q x w 
+e s a h p y l o p o c q b c r z e x b w e x s i p g z u w s z s i t s k x g r j 
+z h p y d t u g s i i t b s o n d i u r c n o g t t v a d x p j g g u f u p y m 
+i i m f r f c l m o f u u p w n t i m c d p d c o h b r z u n s r f y n h r u g 
+l n l h b a l a n c e d b r t x v a p e b j a g d c d i c b z s g e m g b r i v 
+x g k s o e n o d e t h g i e w t e l d x r k u x b n y g s n g p y i n a m p i 
+u o k c h y r i w c l g g o n c m a x i m u m h s x c n x w w q r l q d a b d q 
+t l j s d o x y b n k b t r h o u t a v d k i z v b l u d a v y y y n w j h s n 
+v y a k v u r o b e v j a i p n m r e i o q n s w n p y z y l m t b d l w u v c 
+y n b g z f s t r i n g n t a q i i s d u u w i v b b y r p i q m d a q h h a t 
+y l p i n b u q e c g g j y r u n e a i t e n o v l j k k r e w r e y y l e j r 
+k a s k i e v l c s k u w j g e i g h l v u m k s r j w e a h h q q p m g m e i 
+w i b w a q r k i f t y e r i r m o d o b e a a j m k v d y d l a h f g a p z k 
+o c d b k p a q e u x p r h d u g b i b i x m g c f y y y y h s t s p a i s c v 
+x f g w t g q k d c j v m o q x r a m m j v e f p c u s p t v o f t p l f a r i 
+k c r v v n t y q w w j f w q y g u d y v q x k o z h v o i d w y x u g f h m a 
+r v d f v j m n d z h j v f a k r z d s j u v q j u e w b p a l c n m t p e j r 
+c y l q u l o s s m d c p c z v p s k t n b h s f r s y d d t w k j k b r g x i 
+u k g g h f y x j h b t w a i v x f z i i m e f p g g c c q u o i a k q t i g i 
+l e c t l p s g a w h w j j e a n g z o j s u u e b q b g o j l q y p r m z y j 
+h f r k q z i u y a s k t s k j c d y l b b w r s i o k h i o o n y e w i m b w 
+q e l o o s d u w x j s m b g l m z a x e u c g n s u f u z a r j l w a x p k g 
+b z u t q c d r n a a j n b w a d p r q p y k y h m l g q a g t o f z y e c p p 
+s d r a v u z p y a s n c e u v r f m q w a c s y d f g y y t v v k m m r u v f 
+j f e n u f u a l e h o z h y u t o p x t d o i r w z g k g i y p k c i o i y d 
+m s t b r m m c k d n j o v a c z f b p u b a z j w w v g z q f p u y i h s i b 
+algorithm
+analysis
+automaton
+balanced
+binary
+binomial
+boruvka
+bubblesort
+collisions
+compression
+computer
+connected
+conquer
+convex
+cryptology
+data
+delaunay
+digraph
+dijkstra
+divide
+dynamic
+extendible
+flow
+geometric
+graph
+hashing
+heapsort
+huffman
+knuth
+kruskal
+matching
+maximum
+mergesort
+minimum
+network
+partitioning
+patricia
+pattern
+polyphase
+prim
+priority
+programming
+queue
+quicksort
+radix
+recursive
+salesman
+science
+search
+shellsort
+shortest
+spanning
+splay
+stack
+string
+structure
+symbol
+table
+traveling
+traversal
+tree
+triangulation
+trie
+undirected
+voronoi
+weighted

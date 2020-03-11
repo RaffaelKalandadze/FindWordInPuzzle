@@ -1,0 +1,10 @@
+5
+l x x x x
+x b c x x
+x x d e f
+x x x x x
+g h i j k
+aaaa
+aaaaa
+ghijk
+kjihg

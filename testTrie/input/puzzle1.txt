@@ -1,0 +1,16 @@
+5
+f j x x x
+e i x k x
+d h x l x
+c g x m x
+b x x n o
+bcde
+bcdef
+edcb
+fedcb
+ghij
+klmn
+xxxx
+xxxxx
+zzzz
+zzzzz
