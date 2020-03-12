@@ -1,6 +1,5 @@
 #include<bits/stdc++.h> 
 using namespace std; 
-#include "trieSol.cpp"
 #define char_int(c) ((int)c - (int)'a') 
 #define SIZE (26) 
 
